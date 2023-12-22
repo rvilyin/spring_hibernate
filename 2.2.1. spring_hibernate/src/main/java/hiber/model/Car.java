@@ -1,9 +1,6 @@
 package hiber.model;
 
-import org.hibernate.annotations.Generated;
-
 import javax.persistence.*;
-import java.util.Objects;
 
 @Entity
 @Table(name = "cars")
